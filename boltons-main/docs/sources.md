@@ -1,10 +1,5 @@
 # Использованные источники
 
-## Шаблон оформления README / идеи структуры документации
-
-- Репозиторий-образец: [YaroslavGit28/Argparse_Python](https://github.com/YaroslavGit28/Argparse_Python)
-- Wiki-структура (модули 1–3): [Argparse_Python Wiki](https://github.com/YaroslavGit28/Argparse_Python/wiki)
-
 ## Идеи и вдохновение по “boltons”
 
 - Оригинальная библиотека `boltons` (репозиторий): [`mahmoud/boltons`](https://github.com/mahmoud/boltons)
@@ -22,5 +17,6 @@
 ## Инструменты разработки
 
 - `pytest`: `https://docs.pytest.org/`
+
 
 
